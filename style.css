@@ -1,0 +1,16 @@
+button {
+  background-color: blue;
+  border: 0px;
+  border-radius: 5px;
+  color: white;
+  height: 30px;
+  width: 100px;
+
+}
+
+body {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
